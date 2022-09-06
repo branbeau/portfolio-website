@@ -188,6 +188,10 @@ margin-right: 10px
 float:  left;
 }
 
+tbody > tr > td {
+  text-align: center;
+}
+
 @keyframes cloud-move-reverse {
     from {
         transform: translate(446px, 48px)
